@@ -1,0 +1,47 @@
+body{
+	color: white;
+	background-color: #222222;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+h1{
+	font-size: 600%;
+}
+h2{
+	font-size: 400%;
+}
+p{
+	font-size: 150%;
+}
+#xValue{
+	height: 20px;
+	width: 300px;
+}
+#yValue{
+	height: 20px;
+	width: 300px;
+}
+#answer{
+	color: red;
+}
+#answer:hover{
+	color: lime;
+}
+#addButton{
+	background: orange;
+	color: white;
+	border-radius: 20px;
+	height: 50px;
+	width: 100px;
+	color: black;
+	font-size: 100%;
+	font-weight: bold;
+	margin-top: 20px;
+}
+#addButton:hover{
+	background: blue;
+	color: white;
+	border-radius: 20px;
+	height: 50px;
+	width: 100px;
+}
